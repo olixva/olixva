@@ -1,9 +1,8 @@
-<h1 align="center">Hola 👋, Soy Antonio Oliva</h1>
-<h3 align="center">🌐 Desarrollador Backend 🌐</h3>
-
-<p align="left"> 
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=olixva&label=Visitas%20a%20perfil&color=0eb474&style=flat" alt="olixva" /> 
 </p>
+<h1 align="center">Hola 👋, Soy Antonio Oliva</h1>
+<h3 align="center">🌐 Desarrollador Backend 🌐</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Spring**
 - 📫 Contactame en **antonio.oliva.work@gmail.com**
