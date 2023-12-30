@@ -11,7 +11,7 @@
 
 
 <p align="center">
-   🌱 Actualmente estoy aprendiendo **Spring**
+   🌱 Actualmente estoy aprendiendo <b>Spring</b>
 </p>
 
 <p align="center">
@@ -45,7 +45,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olixva&layout=compact" alt="Top Languages" />
-</p>
+
 
