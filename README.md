@@ -1,4 +1,6 @@
-<br>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=olixva&label=Visitas%20a%20perfil&color=0eb474&style=flat" alt="Profile Visits" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=olixva&" alt="GitHub Streak" />
 </p>
@@ -6,12 +8,10 @@
 <h1 align="center">¡Hola 👋, Soy Antonio Oliva!</h1>
 <h3 align="center">🌐 Desarrollador Backend 🌐</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=olixva&label=Visitas%20a%20perfil&color=0eb474&style=flat" alt="Profile Visits" />
-</p>
+
 
 <p align="center">
-  <b>Actualmente estoy aprendiendo</b> Spring
+   🌱 Actualmente estoy aprendiendo **Spring**
 </p>
 
 <p align="center">
