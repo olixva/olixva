@@ -6,13 +6,7 @@
 </p>
 
 <h1 align="center">¡Hola 👋, Soy Antonio Oliva!</h1>
-<h3 align="center">🌐 Desarrollador Backend 🌐</h3>
-
-
-
-<p align="center">
-   🌱 Actualmente estoy aprendiendo <b>Spring</b>
-</p>
+<h3 align="center">🌐 Desarrollador Backend y IA 🌐</h3>
 
 <p align="center">
   <b>Contactame en:</b> <a href="mailto:antonio.oliva.work@gmail.com">antonio.oliva.work@gmail.com</a>
